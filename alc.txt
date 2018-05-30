@@ -1,3 +1,2 @@
 /vagrant/alc/kiran/source/1.0/kiran.lca
 /vagrant/alc/kiran/source/2.0/trina.lca
-/vagrant/alc/kiran/source/2.0/latha.lca
